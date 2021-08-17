@@ -209,11 +209,11 @@ header .navbar ul li a:hover{
     color:var(--yellow);
 }
 
-.about .row .counter .box h3{
+.about .row .counter .box ul li h3{
     font-size: 2rem;
     color:#fff;
 } 
-.about .row .counter .box p{
+.about .row .counter .box ul p{
     color: aliceblue;
     padding: 0 .5rem;
 }
